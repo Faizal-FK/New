@@ -1,4 +1,4 @@
 # New
 My New
 <br>
-Author - Faisal khan 
+Author - Faisal khan (Faizal)

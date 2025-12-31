@@ -1,0 +1,7 @@
+add ( change update)
+M (Modified)
+. (Like * take All)
+git commit -m "Some Message" ((-m)yani Message)
+abhi sirf local me hi change hua hai github web per nhi 
+-------------------------------------------------------
+git push (push all changes to main github) 
