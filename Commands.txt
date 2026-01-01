@@ -1,7 +1,17 @@
 add ( change update)
 M (Modified)
+U (UnTracked File)
 . (Like * take All)
 git commit -m "Some Message" ((-m)yani Message)
 abhi sirf local me hi change hua hai github web per nhi 
 -------------------------------------------------------
 git push (push all changes to main github) 
+init (new git repo)
+git remote add origin <link> (github me new repo banaker uska link )
+git remote -v (see New changes)
+git branch (see branches) master/main
+git branch -m  ("rename branch") set it to MAIN
+git push origin main (main me push)
+git push -u origin main(ik hi folder me push) <-u> ik hi use kerne wale hai
+ab iske baad sirf git push karenge aur ho jayega 
+!! pehle github per hi files banaker usko clone kerna zyada better hai 
